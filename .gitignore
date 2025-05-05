@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 Input-project
+/componenet
+FAQ
+
 
 # Editor directories and files
 .vscode/*
