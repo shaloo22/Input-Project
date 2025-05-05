@@ -11,7 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-src/Shopping-list
+Shopping-list/
 src/components/
 
 FAQ
