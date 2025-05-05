@@ -1,11 +1,12 @@
 import React from 'react'
-import FAQ from './componenet/FAQ'
+import Shopping from './Shopping-list/Shopping'
+
 
 const App = () => {
-  
   return (
     <div>
-      <FAQ/>
+      <Shopping />
+   
     </div>
   )
 }
